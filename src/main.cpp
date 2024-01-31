@@ -2,6 +2,7 @@
 #include "fun.h"
 int main() 
 {
+    std::cout << "start" << std::endl;
     int count = 10;
     for (int i = 0; i < count; i++)
     {
