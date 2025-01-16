@@ -1,1 +1,1 @@
-my test project
+my cmake test project
