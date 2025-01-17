@@ -1,5 +1,5 @@
 #include "fun.h"
 void fun()
 {
-    std::cout << "over" << std::endl;
+    std::cout << "welcome to my github!" << std::endl;
 }
